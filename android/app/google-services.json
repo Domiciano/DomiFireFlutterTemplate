@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311804233920",
+    "firebase_url": "https://pokeprueba-3ea8a.firebaseio.com",
+    "project_id": "pokeprueba-3ea8a",
+    "storage_bucket": "pokeprueba-3ea8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311804233920:android:34d52648f03e0118528525",
+        "android_client_info": {
+          "package_name": "com.example.domifiretemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311804233920-bgp3033ftbg3k9utpf7e64a873uqt7lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR944VT0i3-vcrVtk0FX8xuVXVk6TgLRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311804233920-bgp3033ftbg3k9utpf7e64a873uqt7lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
